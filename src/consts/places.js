@@ -1,0 +1,68 @@
+const places = [
+  {
+    id: '1',
+    name: 'Boracay',
+    location: 'Aklan',
+    image: require('../assets/location1.jpg'),
+    details: `Boracay is a small island in the central Philippines. It's known for its resorts and beaches.`,
+    map: 'https://goo.gl/maps/HnBarTxLEFxmHVwR6',
+  },
+  {
+    id: '2',
+    name: 'Siargao',
+    location: 'Siargao island',
+    image: require('../assets/location2.jpg'),
+    details: ` Siargao is mainly responsible for introducing surfing to the country. Apart from surfing, Siargao is also open to other activities such as cave explorations and rock climbing.`,
+    map: 'https://goo.gl/maps/ihZYZe6uVkBEzFg88',
+  },
+  {     
+    id: '3',
+    name: 'Calle Crisologo',
+    location: 'Vigan',
+    image: require('../assets/location3.jpg'),
+    details: `Calle Crisologo dominates the Mestizo district, with its cobblestone streets, malecón, horse-drawn carriages and rustic mansions. `,
+    map: 'https://goo.gl/maps/jke5hEXDGgTUyYon7',
+  },
+  {
+    id: '4',
+    name: 'Nacpan Beach',
+    location: 'El Nido',
+    image: require('../assets/location4.jpg'),
+    details: `Nacpan Beach is one of the most beautiful stretches of sand in the Philippines.`,
+    map: 'https://goo.gl/maps/cPT14a4XZVCWRqWJ8',  
+  },
+   {     
+    id: '3',
+    name: 'Calle Crisologo',
+    location: 'Vigan',
+    image: require('../assets/location3.jpg'),
+    details: `Calle Crisologo dominates the Mestizo district, with its cobblestone streets, malecón, horse-drawn carriages and rustic mansions. `,
+    map: 'https://goo.gl/maps/jke5hEXDGgTUyYon7',
+  },
+   {     
+    id: '3',
+    name: 'Calle Crisologo',
+    location: 'Vigan',
+    image: require('../assets/location3.jpg'),
+    details: `Calle Crisologo dominates the Mestizo district, with its cobblestone streets, malecón, horse-drawn carriages and rustic mansions. `,
+    map: 'https://goo.gl/maps/jke5hEXDGgTUyYon7',
+  },
+   {     
+    id: '3',
+    name: 'Calle Crisologo',
+    location: 'Vigan',
+    image: require('../assets/location3.jpg'),
+    details: `Calle Crisologo dominates the Mestizo district, with its cobblestone streets, malecón, horse-drawn carriages and rustic mansions. `,
+    map: 'https://goo.gl/maps/jke5hEXDGgTUyYon7',
+  },
+   {     
+    id: '3',
+    name: 'Calle Crisologo',
+    location: 'Vigan',
+    image: require('../assets/location3.jpg'),
+    details: `Calle Crisologo dominates the Mestizo district, with its cobblestone streets, malecón, horse-drawn carriages and rustic mansions. `,
+    map: 'https://goo.gl/maps/jke5hEXDGgTUyYon7',
+  },
+];
+
+export default places;
